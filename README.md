@@ -19,7 +19,7 @@
 ## 🤳🏻 Previews
 |UI Component - Counter Flipper|Use Case - Flip Clock|
 |-|-|
-| <img src="https://github.com/KDTechniques/countdown-flipper-swiftui/blob/main/readme_assets/Counter%20Flipper.gif?raw=true" alt="Counter Flipper">|<img src="https://github.com/KDTechniques/countdown-flipper-swiftui/blob/main/readme_assets/Demo.gif?raw=true" alt="Demo">|
+| <img src="https://github.com/KDTechniques/ReadMe_Media_Files/blob/main/countdown-flipper-swiftui/Counter%20Flipper.gif?raw=true" alt="Counter Flipper">|<img src="https://github.com/KDTechniques/ReadMe_Media_Files/blob/main/countdown-flipper-swiftui/Demo.gif?raw=true" alt="Demo">|
 
 
 ## 🛠️ Installation
@@ -66,7 +66,7 @@ struct ContentView: View {
 ## Behind the Scenes
 This is how I break down a larger problem into smaller, understandable pieces and build upon each step by step to achieve the final goal.
 
-<img src="https://github.com/KDTechniques/countdown-flipper-swiftui/blob/main/readme_assets/Behind%20the%20Scenes.jpg?raw=true" alt="Behind the Scenes">
+<img src="https://github.com/KDTechniques/ReadMe_Media_Files/blob/main/countdown-flipper-swiftui/Behind%20the%20Scenes.jpg?raw=true" alt="Behind the Scenes">
 
 
 ## 🤝 Contribution
